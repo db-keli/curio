@@ -8,6 +8,6 @@ class CurioApplicationTests {
 
     @Test
     void contextLoads() {
+        // Verifies the entire Spring application context starts successfully
     }
-
 }
